@@ -23,7 +23,7 @@ class _MySignUpPageState extends State<MySignUpPage> {
           Center(
             child: Text(
               "sign up page",
-              style: TextStyle(fontSize: 30),
+              style: TextStyle(fontSize: 40),
             ),
           ),
           SizedBox(
